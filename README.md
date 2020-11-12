@@ -1,5 +1,3 @@
-Stanescu Gabriel 324CC
-
 General procedure: the "format" array given as input was iterated character by
 character using a "for" structure. if a "%" is found, the algorithm checks the
 next position of the array in order to find a conversion specifier or another "%"
