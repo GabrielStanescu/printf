@@ -23,4 +23,6 @@ placed into the "output" string(mod + 48), else a letter will be placed(mod+87)
 
 intlen(), uintlen() - returns the number of digits of an int/unsigned int
 
+write_stdout() - writes on the stdout a given string as a parameter
+
 Other informations can be found into the source code as comments.
